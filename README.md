@@ -1,5 +1,4 @@
 ## Hi there 👋
-I'm Weslley, and I'm learning front end.
 I'm Weslley, and I'm learning front-end. You can visit and see my projects in my repository. The tools I'm learning are:
 <br>
 
