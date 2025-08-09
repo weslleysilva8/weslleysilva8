@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Weslley, and I'm learning front end.
-I'm Wesley, and I'm learning front-end. You can visit and see my projects in my repository. The tools I'm learning are:
+I'm Weslley, and I'm learning front-end. You can visit and see my projects in my repository. The tools I'm learning are:
 <br>
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
